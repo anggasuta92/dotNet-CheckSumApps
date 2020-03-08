@@ -1,0 +1,14 @@
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\bin\Debug\checkSumApps.exe.config
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\bin\Debug\checkSumApps.exe
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\bin\Debug\checkSumApps.pdb
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\bin\Debug\checkSumApps.xml
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.frmCheckSum.resources
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.Resources.resources
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.vbproj.GenerateResource.Cache
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.exe
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.xml
+D:\!#Angga#!\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.pdb
+D:\!#Angga#!\STK\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\bin\Debug\checkSumApps.exe.config
+D:\!#Angga#!\STK\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.exe
+D:\!#Angga#!\STK\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.xml
+D:\!#Angga#!\STK\KomunikasiData\checkSumApps\checkSumApps\checkSumApps\obj\Debug\checkSumApps.pdb
